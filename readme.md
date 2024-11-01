@@ -1,4 +1,6 @@
-This little module os mostly produced by ChatGPT so... i guess you get what you pay for.
+A Synapse module to block registrations if email provider is in a blacklist.
+
+This little module is mostly produced by ChatGPT so... i guess you get what you pay for.
 
 The [module file](https://github.com/daedric7/synapse-email-blacklist-module/blob/main/emailblacklist.py) must be in a dir that the python running synapse can find (if docker, you can mount the file in /usr/local/lib/python3.XX/site-packages/emailblacklist.py)
 
