@@ -1,0 +1,2 @@
+email_blacklist:
+  - ".*@gmail\\.com"  # Block any email from gmail.com
